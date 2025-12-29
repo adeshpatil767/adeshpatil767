@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently working on<br>Building frontend projects using HTML, CSS, JavaScript & React<br><br> I’m looking to collaborate on<br>Beginner-friendly frontend / web development projects<br><br> I’m looking for help with<br>Improving React, project structure & real-world best practices<br><br>I’m currently learning<br>React, JavaScript, Git & GitHub<br>Exploring Node.js for full-stack basics<br><br> Ask me about<br>Frontend basics, HTML/CSS, beginner React, college projects<br><br> Fun fact<br>I enjoy turning simple ideas into clean UIs ✨
+ I’m currently working on<br>Building frontend projects using HTML, CSS, JavaScript & React<br><br> I’m looking to collaborate on<br>Beginner-friendly frontend / web development projects<br<br> I’m looking for help with<br>Improving React, project structure & real-world best practices<br><br>I’m currently learning<br>React, JavaScript, Git & GitHub<br>Exploring Node.js for full-stack basics<br><br> Ask me about<br>Frontend basics, HTML/CSS, beginner React, college projects<br><br> Fun fact<br>I enjoy turning simple ideas into clean UIs ✨
 
 
 ## 🌐 Socials:
@@ -11,6 +11,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=adeshpatil767&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=adeshpatil767&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adeshpatil767&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=adeshpatil767&icon=0&color=0)](https://visitcount.itsvg.in)
